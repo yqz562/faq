@@ -1,0 +1,39 @@
+repository: dynamsoft-docs/faq
+repositoryUrl: https://github.com/dynamsoft-docs/faq/blob/main
+docFullPath: https://www.dynamsoft.com/faq
+firstLevelUrl: /faq
+docHomePage: /faq/
+product-page-url: https://www.dynamsoft.com/faq
+
+product-name: /faq/
+product-title: Dynamsoft FAQ
+
+mobile-faq: /faq/mobile/
+server-faq: /faq/server/
+web-faq: /faq/web/
+
+useVersionTree: true
+
+assets: /faq/assets/
+edit_icon: /faq/assets/img-icon/edit-icon.png
+smile_icon: /faq/assets/img-icon/icon-smile.png
+sad_icon: /faq/assets/img-icon/icon-sad.png
+
+plugins:
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default-layout"
+      noTitleIndex: true
+      needAutoGenerateSidebar: true
+      needGenerateH3Content: true
+  - scope:
+      path: "Hide_Tree_Page.html"
+    values:
+      sitemap: false
+
+url: https://www.dynamsoft.com # sitemap root
+baseurl: /faq

@@ -8,9 +8,9 @@ product-page-url: https://www.dynamsoft.com/faq
 product-name: /faq/
 product-title: Dynamsoft FAQ
 
-mobile-faq: /faq/mobile/
-server-faq: /faq/server/
-web-faq: /faq/web/
+mobile-faq: /faq/dynamsoft-mobile/
+server-faq: /faq/dynamsoft-server/
+web-faq: /faq/dynamsoft-web/
 
 useVersionTree: true
 

@@ -1,4 +1,6 @@
 tree_file_list:
+  - sidelist-general.html
+  - sidelist-license.html
   - sidelist-server.html
   - sidelist-mobile.html
   - sidelist-web.html

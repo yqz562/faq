@@ -5,7 +5,7 @@ keywords: Dynamsoft Barcode Reader, FAQ, DBR Introduction, General, editions
 description: Which edition of Barcode Reader should I use?
 needAutoGenerateSidebar: false
 breadcrumbText: FAQ
-permalink: /faq/general/different-editions-of-dbr.html
+: /faq/general/different-editions-of-dbr.html
 ---
 
 ## Which edition of Barcode Reader should I use?

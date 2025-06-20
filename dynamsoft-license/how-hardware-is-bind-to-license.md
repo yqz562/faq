@@ -4,7 +4,7 @@ title: What I need to know about licensing process?
 keywords: Dynamsoft Barcode Reader, FAQ, Pricing/Licensing, General, information gathered, hardware bind, new license consumption
 description: What I need to know about licensing process?
 needAutoGenerateSidebar: false
-permalink: /faq/general/how-hardware-is-bind-to-license.html
+: /faq/general/how-hardware-is-bind-to-license.html
 ---
 
 ## What I need to know about licensing process?

@@ -4,7 +4,6 @@ title: How to enable DPM?
 keywords: Dynamsoft Barcode Reader, FAQ, tech basic, enable DPM
 description: How to enable DPM?
 needAutoGenerateSidebar: false
-: /faq/general/how-to-enable-dpm.html
 ---
 
 ## How to enable DPM?

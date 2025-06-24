@@ -4,7 +4,6 @@ title: How to create custom settings template?
 keywords: Dynamsoft Barcode Reader, FAQ, DBR Introduction, General, runtime settings, template
 description: How to create custom settings template?
 needAutoGenerateSidebar: false
-: /faq/general/custom-settings-template.html
 ---
 
 ## How to create custom settings template?

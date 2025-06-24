@@ -4,7 +4,6 @@ title: What I need to know about trial licenses?
 keywords: Dynamsoft Barcode Reader, FAQ, DBR Introduction, General, free trial
 description: What I need to know about trial licenses?
 needAutoGenerateSidebar: false
-: /faq/general/dbr-free-trial.html
 ---
 
 ## What I need to know about trial licenses?

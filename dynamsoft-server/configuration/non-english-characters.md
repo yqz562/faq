@@ -4,7 +4,6 @@ title: What I can do when barcode image returnes messy (non-english) characters?
 keywords: Dynamsoft Barcode Reader, FAQ, DBR Introduction, messy characters, non-English characters
 description: What I can do when barcode image returnes messy (non-english) characters?
 needAutoGenerateSidebar: false
-: /faq/general/non-english-characters.html
 ---
 
 ## What I can do when barcode image returnes messy (non-english) characters?

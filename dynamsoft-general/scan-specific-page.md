@@ -4,7 +4,6 @@ title: How to scan specific pages of a pdf file?
 keywords: Dynamsoft Barcode Reader, FAQ, DBR Introduction, scan specific page
 description: How to scan specific pages of a pdf file?
 needAutoGenerateSidebar: false
-: /faq/general/scan-specific-page.html
 ---
 
 ## How to scan specific pages of a pdf file?

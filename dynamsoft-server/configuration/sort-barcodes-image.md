@@ -4,7 +4,6 @@ title: How can I sort the barcodes of my image in reading order?
 keywords: Dynamsoft Barcode Reader, FAQ, DBR Introduction, General, sorting, reading order
 description: How can I sort the barcodes of my image in reading order?
 needAutoGenerateSidebar: false
-: /faq/general/sort-barcodes-image.html
 ---
 
 ## How can I sort the barcodes of my image in reading order?

@@ -4,7 +4,6 @@ title: Can Barcode Reader SDK read PDF files? Do I need to pay for this feature?
 keywords: Dynamsoft Barcode Reader, FAQ, DBR Introduction, General, PDF
 description: Can Barcode Reader SDK read PDF files? Do I need to pay for this feature?
 needAutoGenerateSidebar: false
-: /faq/general/dbr-supports-pdf.html
 ---
 
 ## Can Barcode Reader SDK read PDF files? Do I need to pay for this feature?

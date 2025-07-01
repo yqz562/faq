@@ -1,25 +1,26 @@
 repository: dynamsoft-docs/faq
 repositoryUrl: https://github.com/dynamsoft-docs/faq/blob/main
-docFullPath: https://www.dynamsoft.com/faq
-firstLevelUrl: /faq
+docFullPath: https://www.dynamsoft.com/faq/barcode-reader
+firstLevelUrl: /faq/barcode-reader
 docHomePage: /faq/
-product-page-url: https://www.dynamsoft.com/faq
+product-page-url: https://www.dynamsoft.com/faq/barcode-reader
 
 product-name: /faq/
 product-title: Dynamsoft FAQ
 
-mobile-faq: /faq/dynamsoft-mobile
-server-faq: /faq/dynamsoft-server
-web-faq: /faq/dynamsoft-web
-general-faq: /faq/dynamsoft-general
-license-faq: /faq/dynamsoft-license
+mobile-faq: /faq/barcode-reader/mobile
+server-faq: /faq/barcode-reader/server
+web-faq: /faq/barcode-reader/web
+general-faq: /faq/barcode-reader/general
+license-faq: /faq/barcode-reader/license
 
 useVersionTree: true
+isNoSubMenuDoc: true
 
-assets: /faq/assets/
-edit_icon: /faq/assets/img-icon/edit-icon.png
-smile_icon: /faq/assets/img-icon/icon-smile.png
-sad_icon: /faq/assets/img-icon/icon-sad.png
+assets: /faq/barcode-reader/assets/
+edit_icon: /faq/barcode-reader/assets/img-icon/edit-icon.png
+smile_icon: /faq/barcode-reader/assets/img-icon/icon-smile.png
+sad_icon: /faq/barcode-reader/assets/img-icon/icon-sad.png
 
 plugins:
   - jekyll-sitemap
@@ -38,4 +39,4 @@ defaults:
       sitemap: false
 
 url: https://www.dynamsoft.com # sitemap root
-baseurl: /faq
+baseurl: /faq/barcode-reader

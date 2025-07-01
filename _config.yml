@@ -15,7 +15,6 @@ general-faq: /faq/barcode-reader/general
 license-faq: /faq/barcode-reader/license
 
 useVersionTree: true
-isNoSubMenuDoc: true
 
 assets: /faq/barcode-reader/assets/
 edit_icon: /faq/barcode-reader/assets/img-icon/edit-icon.png

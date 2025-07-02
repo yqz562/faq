@@ -7,7 +7,9 @@ needAutoGenerateSidebar: false
 noTitleIndex: true
 ---
 
-# License FAQ Index
+# Dynamsoft Barcode Reader General FAQ
+
+Welcome to the FAQ for Dynamsoft Barcode Reader License. Use the links below to find answers to common questions and configuration guidance.
 
 - [Does DBR support PDF?](dbr-supports-pdf.html)
 - [How to ensure no overuse of license?](ensure-no-overuse.html)

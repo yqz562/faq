@@ -1,72 +1,72 @@
 ---
 layout: default-layout
-title: JavaScript - Dynamsoft Barcode Reader FAQ
-keywords: faq, javascript
-description: Dynamsoft Barcode Reader FAQ - JavaScript
+title: Web - Dynamsoft Barcode Reader FAQ
+keywords: faq, javascript, web
+description: Dynamsoft Barcode Reader FAQ - Web
 needAutoGenerateSidebar: false
 noTitleIndex: true
 ---
 
-# Dynamsoft Barcode Reader JavaScript FAQ
+# Dynamsoft Barcode Reader Web FAQ
 
 Welcome! Browse the sections below for answers to common questions, configuration tips, and troubleshooting guidance.
 
 ---
 
-## 📋 System & Requirements
+## Camera
 
-- [What are the system requirements for running the latest version of Dynamsoft Barcode Reader?](system-requirement.html)
+- [Camera cannot open in PWA](camera/camera-cannot-open-in-pwa.html)
+- [How to check camera availability](camera/check-camera.html)
+- [Delay when opening camera](camera/delay-when-open-camera.html)
+- [How to stop the camera stream from opening right away after DBR-JS demo is loaded?](camera/stop-camera-to-open-right-away.html)
+- [Why isn't my webcam reading the barcode on my driver's license or ID card?](camera/webcam-support-dense.html)
+- [When is singleFrameMode enabled?](camera/when-singleFrameMode-is-enabled.html)
 
-## 📦 Deployment & Licensing
+## Capabilities
 
-- [How to get a copy of (Dynamsoft Barcode Reader) Dbr JS deployable files (source code, etc.) ?](ways-to-copy-dbr-js-deployable-files.html)
-- [How to use the JavaScript SDK in offline mode?](javascript-sdk-offline-mode-use.html)
-- [What are the pros and cons of using the CDN?](pros-and-cons-of-cdn.html)
-- [How does license tracking work with the three standard licensing options - Per Scan, Per Device, Per Concurrent Device?](how-license-tracking-works.html)
-- [When is a new license spot taken when using a per-device licensing model?](new-license-required-per-device-licensing.html)
-- [How to Secure Your License Key by Managing Domain Binding?](change-domain-binding-of-product-key.html)
-- [How to Enable Specific Barcode Formats with Your License?](enable-supported-barcode-format.html)
+- [iOS 16 Incompatible](capabilities/ios-16-incompatible.html)
+- [iOS 17 Readability](capabilities/ios-17-readability.html)
+- [Is HTTPS Required?](capabilities/is-https-required.html)
+- [Pros and Cons of CDN](capabilities/pros-and-cons-of-cdn.html)
+- [System Requirement](capabilities/system-requirement.html)
 
-## ⚙️ Configuration & Usage
+## Configuration
 
-- [What are the differences between the compact edition and the full edition?](differences-between-full-and-compact-editions.html)
-- [Is HTTPS absolutely required?](is-https-required.html)
-- [When to use onFrameRead and when to use onUniqueRead?](use-of-onFrameRead-and-onUnduplicateRead.html)
-- [Do we have to call loadWasm proactively?](call-loadWasm-proactively.html)
-- [What are the differences between updateScanSettings/updateVideoSettings/updateRuntimeSettings?](differences-between-updateScanSettings-updateVideoSettings-and-updateRuntimeSettings.html)
-- [How do you upgrade to a newer version of the SDK?](upgrade-old-to-new.html)
-- [How to get the logs for the JavaScript SDK?](get-sdk-logs.html)
-- [How to get intermediate result images?](get-intermediate-result-images.html)
-- [How to read barcodes from existing files?](read-from-existing-files.html)
-- [What file/image formats are supported when reading barcodes from files in local memory?](formats-supported-for-existing-files.html)
-- [How to scan the barcode on a US Driver’s License and get the first name, last name, DOB, etc.?](scan-US-drivers-license.html)
-- [How do I create a NodeJS application using the SDK?](nodejs-implementation.html)
-- [How to check the version of the JavaScript SDK I am currently using?](check-current-version.html)
-- [How to stop the camera stream from opening right away after DBR-JS demo is loaded? How can you enable the camera on the click of a button?](stop-camera-to-open-right-away.html)
+- [How to avoid incorrect barcode results?](configuration/avoid-incorrect-barcode-results.html)
+- [Do we have to call loadWasm proactively?](configuration/call-loadWasm-proactively.html)
+- [How to change domain binding of product key?](configuration/change-domain-binding-of-product-key.html)
+- [Formats supported for existing files](configuration/formats-supported-for-existing-files.html)
+- [How to get intermediate result images?](configuration/get-intermediate-result-images.html)
+- [How do I create a NodeJS application using the SDK?](configuration/nodejs-implementation.html)
+- [Offline mode usage for JavaScript SDK](configuration/javascript-sdk-offline-mode-use.html)
+- [Newline character not being rendered](configuration/newline-character-not-being-rendered.html)
+- [Pop-up window during trial process](configuration/pop-up-window-during-trail-process.html)
+- [Read from existing files](configuration/read-from-existing-files.html)
+- [Scan US driver's license](configuration/scan-US-drivers-license.html)
+- [Upgrade old to new version](configuration/upgrade-old-to-new.html)
+- [Use of onFrameRead and onUnduplicateRead](configuration/use-of-onFrameRead-and-onUnduplicateRead.html)
+- [Ways to copy DBR-JS deployable files](configuration/ways-to-copy-dbr-js-deployable-files.html)
 
-## 🖥️ UI Customization
+## Debug
 
-- [What are the different ways to customize the UI?](different-ways-to-customize-ui.html)
-- [How to add/remove a "beep" sound once a barcode is found?](add-remove-beep-sound.html)
-- [How can I hide the laser bar and Dynamsoft message in the default UI of the BarcodeScanner?](hide-laser-message-ui.html)
+- [Check Current Version](debug/check-current-version.html)
+- [General Troubleshooting Steps for Decode Failure](debug/general-troubleshooting-steps-for-decode-failure.html)
+- [Get SDK Logs](debug/get-sdk-logs.html)
+- [Resolve Magic Word](debug/resolve-magic-word.html)
 
-## 📷 Camera & Scanning
+## Scan Settings
 
-- [When is singleFrameMode enabled?](when-singleFrameMode-is-enabled.html)
-- [How to read an inverted image?](read-inverted-image.html)
-- [What is the difference between the BarcodeReader class and the BarcodeScanner class? Can they be used interchangeably?](difference-between-barcodeReader-and-barcodeScanner.html)
-- [How to check the camera permissions programmatically in Dynamsoft Barcode Reader JavaScript SDK?](check-camera.html)
-- [How to get rid of the delay when opening the camera?](delay-when-open-camera.html)
-- [Why isn't my webcam reading the barcode on my driver's license or ID card?](webcam-support-dense.html)
-- [How to Resolve Camera Cannot Open in PWA Using Dynamsoft Barcode Reader on iOS](camera-cannot-open-in-pwa.html)
+- [Difference between BarcodeReader and BarcodeScanner](scan-setting/difference-between-barcodeReader-and-barcodeScanner.html)
+- [Difference between BestSpeed and BestCoverage](scan-setting/difference-between-bestspeed-and-bestcoverage.html)
+- [Differences between Full and Compact Editions](scan-setting/differences-between-full-and-compact-editions.html)
+- [Differences between updateScanSettings, updateVideoSettings, and updateRuntimeSettings](scan-setting/differences-between-updateScanSettings-updateVideoSettings-and-updateRuntimeSettings.html)
+- [Enable Supported Barcode Format](scan-setting/enable-supported-barcode-format.html)
+- [Read Inverted Image](scan-setting/read-inverted-image.html)
+- [Remove Duplicates](scan-setting/remove-duplicates.html)
+- [Unable to Scan Aztec Code](scan-setting/unable-to-scan-aztec-code.html)
 
-## 🔧 Troubleshooting & Best Practices
+## UI Customization
 
-- [Why are newline characters not being rendered when displaying the barcode results in a textbox?](newline-character-not-being-rendered.html)
-- [How to resolve the expected magic word error that occurs when using the JavaScript SDK?](resolve-magic-word.html)
-- [What are the general troubleshooting steps if an image fails to decode with the JavaScript SDK?](general-troubleshooting-steps-for-decode-failure.html)
-- [What are the differences between the 'speed', 'coverage', 'balance', and 'single' runtime templates?](difference-between-bestspeed-and-bestcoverage.html)
-- [How to avoid incorrect barcode results?](avoid-incorrect-barcode-results.html)
-- [How to Reduce Duplicate Scans and Optimize Scan Usage?](remove-duplicates.html)
-- [Why is the Javascript SDK not recognizing any barcodes on iOS 16.4?](ios-16-incompatible.html)
-- [How do I resolve the issue of the Barcode Reader not recognizing any barcodes via video in iOS 16.7 or 17?](ios-17-readability.html)
+- [Add/Remove Beep Sound](ui-customization/add-remove-beep-sound.md)
+- [Different Ways to Customize UI](ui-customization/different-ways-to-customize-ui.md)
+- [More UI Customization FAQs](ui-customization/index.md)

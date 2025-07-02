@@ -9,8 +9,6 @@ noTitleIndex: true
 
 # UI Customization Index
 
-- [How to customize the UI?](how-to-customize-the-ui.html)
-- [Can I change the layout of the scanner?](can-i-change-the-layout-of-the-scanner.html)
-- [How to add custom buttons?](how-to-add-custom-buttons.html)
-- [Is it possible to change the color scheme?](is-it-possible-to-change-the-color-scheme.html)
-- [How to integrate with other UI frameworks?](how-to-integrate-with-other-ui-frameworks.html)
+- [Add or Remove Beep Sound](ui-customization/add-remove-beep-sound.html)
+- [Different Ways to Customize UI](ui-customization/different-ways-to-customize-ui.html)
+- [Hide Laser Bar and Message in Default UI](ui-customization/hide-laser-message-ui.html)

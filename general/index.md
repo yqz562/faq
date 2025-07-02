@@ -7,7 +7,9 @@ needAutoGenerateSidebar: false
 noTitleIndex: true
 ---
 
-# General FAQ Index
+# Dynamsoft Barcode Reader General FAQ
+
+Welcome to the FAQ for Dynamsoft Barcode Reader. Use the links below to find answers to common questions and configuration guidance.
 
 - [How to avoid incorrect barcode results?](avoid-incorrect-barcode-results.html)
 - [How to filter incorrect results with the barcode result length?](avoid-incorrect-results.html)

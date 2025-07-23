@@ -21,7 +21,7 @@ jobs:
     uses: dynamsoft-docs/Docs-Template-Repo/.github/workflows/called-workflow-build-sync-production.yml@main
     with:
       doc-repo: faq
-      doc-url: faq
+      doc-url: faq/barcode-reader
     secrets: inherit
 
   Build-Preview:
@@ -29,5 +29,5 @@ jobs:
     uses: dynamsoft-docs/Docs-Template-Repo/.github/workflows/called-workflow-build-sync-testing.yml@preview
     with:
       doc-repo: faq
-      doc-url: faq
+      doc-url: faq/barcode-reader
     secrets: inherit
